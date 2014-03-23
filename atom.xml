@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://baridyulianto.github.io/atom.xml" rel="self"/>
-  <link href="http://baridyulianto.github.io/"/>
+  <link href="http://baridyulianto.com/atom.xml" rel="self"/>
+  <link href="http://baridyulianto.com/"/>
   <updated>2014-03-23T10:45:51+07:00</updated>
   <id>http://baridyulianto.github.io/</id>
   <author>
